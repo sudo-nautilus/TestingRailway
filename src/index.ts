@@ -16,6 +16,9 @@ bot.hears("hello", ctx => {
 bot.hears("hi", ctx => {
   ctx.reply("hemlo!");
 });
+bot.hears("sus", ctx => {
+  ctx.reply("holy f Amogus 😳");
+});
 
 bot.launch();
 
