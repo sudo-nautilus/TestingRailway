@@ -3,8 +3,8 @@
   "private": true,
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Faraz Patankar",
-  "license": "MIT",
+  "author": "sudo-nautilus",
+  "license": "GPL-V3",
   "scripts": {
     "dev": "nodemon src/index.ts",
     "build": "tsc",
